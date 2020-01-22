@@ -16,4 +16,4 @@ _This paper investigates an interesting problem of why a same ranking algorithm 
 ## We may pick up papers from : https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
 5. We can draw some ideas from this paper. 
-N Peinelt, Aiming beyond the Obvious: Identifying Non-Obvious Cases in Semantic Similarity Datasets, ACL 2019.
+Aiming beyond the Obvious: Identifying Non-Obvious Cases in Semantic Similarity Datasets, ACL 2019.
