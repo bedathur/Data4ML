@@ -1,0 +1,2 @@
+Average Precision	Average Recall
+48.5137	17.6926

@@ -1,0 +1,2 @@
+Average Precision	Average Recall
+38.6647	23.1543

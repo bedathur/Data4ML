@@ -1,0 +1,2 @@
+Average Precision	Average Recall
+48.8061	17.0859
