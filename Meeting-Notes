@@ -1,0 +1,8 @@
+Feb 19:
+
+Action Items:
+- Go through the dataset shared by Srikanta and manually check for documents which are similar. 
+- Use topic modeling and other such semantic heuristics to see how two documents which are scored very similar, but with different labels differ.We can use 
+  these as signals to the noise injection algorithm.
+- Look at the crowdflower(?) dataset for analysis
+- Literature survey of the papers where people have injected noise apart from random noise. This is the table that Srikanta mentioned with overview of the method, what dataset was used, where it was published etc.
